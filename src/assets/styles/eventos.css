@@ -1,0 +1,9 @@
+.evento{
+    align-items: center;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+.evento img{
+    width: 30%;
+}
